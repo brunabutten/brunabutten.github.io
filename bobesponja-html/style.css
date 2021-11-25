@@ -1,0 +1,177 @@
+
+
+        * {
+            margin: 0;
+            padding: 0;
+        }        
+        
+        body {
+            font-family: 'Outfit', sans-serif;
+        }
+
+        p, li {
+            color:#01215C;
+            font-size: 16px;
+        }
+
+        .titulo-azul {
+            color: #223C5E
+        }
+
+        #titulo-principal {
+            color: #01215C;
+            font-size: 45px;
+            line-height: 55px;
+            font-weight: 600;
+        }
+
+        .pictures {
+            border-radius: 50%;
+        }
+
+        h2 {
+            font-size: 28px;
+            line-height: 42px;
+            font-weight: 600;
+        }
+
+        li {
+            font-size: 16px;
+            line-height: 1.4em;
+            list-style-type: square;
+        }
+
+        .green-button {
+            background-color: #6CADC4;
+            padding: 15px 50px;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 4px;
+            display: block;
+            margin: 20px auto;
+            width: 100px;
+            text-align: center;
+        }
+
+        h3 {
+            font-weight: 400;
+        }
+
+        #header {
+            background-image: url(vila.webp);
+            height: 600px;
+            background-size: cover;
+            background-position: 50% 05%;
+            padding: 250px 200px;     
+        }
+
+        #header-text {
+            width: 20%;
+        }
+
+        #header-text p {
+            margin: 20px 0;
+            color: #20343B;
+        }
+
+        #market {
+            text-align: center;
+            padding-bottom: 50px;
+        }
+
+        #market p {
+            margin: 20px 0;
+        }
+
+        #market-text {
+            width: 50%;
+            margin: auto;
+        }
+
+        .section-title {
+            margin: 40px 0;
+        }
+
+        #testmonials {
+            width: 60%;
+            margin: auto;
+            text-align: center;
+        }
+
+        .student-testmonial {
+            width: 30%;
+            display: inline-block;
+            text-align: center;
+            vertical-align: middle;
+            margin: 10px;            
+        }
+
+        .student-testmonial img {
+            width: 120px;
+        }
+
+        .student-testmonial p {
+            margin: 30px 30px;
+        }
+
+        #learning {
+            height: 250px;
+            padding: 50px 38%;
+            background-color: #ccc;
+        }
+
+        #footer {
+            background-color: #ccc;
+            text-align: center;
+            padding: 30px;
+        }
+
+        #learning-left {
+            float: left;
+        }
+
+        #learning-right {
+            float: right;
+        }
+
+        #learning-right img {
+            width: 100px;
+        }
+
+        #learning-left li {
+            /* line-height: 30px; */
+            margin-bottom: 10px;
+        }
+
+        #quemfalta {
+            width: 60%;
+            margin: auto;
+            text-align: center;
+            padding: 40px 0;
+        }
+
+        .quem-falta {
+            width: 30%;
+            display: inline-block;
+            text-align: center;
+            vertical-align: middle;
+            margin: 50px;  
+        }
+
+        .quem-falta img {
+            width: 130px;
+            padding: 20px;
+        }
+
+        .quem-falta p {
+            margin: 30px;
+        }
+
+        
+
+
+
+
+
+        
+
