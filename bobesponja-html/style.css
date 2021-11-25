@@ -117,7 +117,7 @@
 
         #learning {
             height: 250px;
-            padding: 50px 38%;
+            padding: 10px 500px;
             background-color: #ccc;
         }
 
@@ -136,7 +136,8 @@
         }
 
         #learning-right img {
-            width: 250px;
+            padding-top: 80px;
+            width: 150px;
         }
 
         #learning-left li {
